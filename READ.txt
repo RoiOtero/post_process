@@ -1,0 +1,2 @@
+Project for point cloud processing.
+SRC folder: it includes all code for build proces with QT
